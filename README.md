@@ -187,7 +187,7 @@ pip install -r requirements.txt
 | Roberts William | 23/EG/CO/023 | Willie-Roberts-2405 | Cloud Deployment |
 | Ughanze Emmanuel Nzubechi | 23/EG/CO/133 | UghanzeNzubechi | Local Deployment|
 | Umoh Ekemini Emmanuel | 23/EG/CO/123 | kemysmartz123 | Model Testing |
-| Mbikan Gracious | 23/EG/CO/093 | donaldgracious45 | Local Deployment |
+| Gordian Ubongabasi Mathias | 23/EG/CO/083 | Gordian-ubong | Local Deployment |
 | Godwin Unimashi Pius | 22/EG/CO/1689 | Piusgodwin2 | Cloud Deployment|
 | Essien Samuel Edem | 23/EG/C0/053 | SteveBruce7 | Project Report |
 
